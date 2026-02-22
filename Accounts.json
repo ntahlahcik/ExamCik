@@ -12,7 +12,16 @@
       "username": "tesadmin",
       "password": "tesadmin",
       "role": "admin",
-      "avatar": null
+      "avatar": null,
+      "lastActive": 1771756009915
+    },
+    {
+      "id": "user_1771756009915",
+      "username": "tesop",
+      "password": "tesop",
+      "role": "operator",
+      "avatar": null,
+      "lastActive": null
     }
   ]
 }
