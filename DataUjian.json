@@ -8,7 +8,7 @@
       "durationMinutes": 30,
       "totalQuestions": 10,
       "maxAttempts": 1,
-      "status": "paused",
+      "status": "active",
       "questions": [],
       "submissions": [
         {
