@@ -6,6 +6,13 @@
       "password": "tes",
       "role": "user",
       "avatar": null
+    },
+    {
+      "id": "user_1771754703148",
+      "username": "tesadmin",
+      "password": "tesadmin",
+      "role": "admin",
+      "avatar": null
     }
   ]
 }
