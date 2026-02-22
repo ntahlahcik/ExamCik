@@ -26,6 +26,23 @@
       "readyUsers": [],
       "joinedUsers": [],
       "pausedAt": 1771757305411
+    },
+    {
+      "id": "exam_1771757358677",
+      "title": "p",
+      "description": "",
+      "duration": 1800,
+      "durationMinutes": 30,
+      "totalQuestions": 10,
+      "maxAttempts": 1,
+      "status": "scheduled",
+      "questions": [],
+      "submissions": [],
+      "startTime": null,
+      "endTime": null,
+      "readyUsers": [],
+      "joinedUsers": [],
+      "violationLog": []
     }
   ]
 }
