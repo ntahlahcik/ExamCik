@@ -35,7 +35,7 @@
       "durationMinutes": 30,
       "totalQuestions": 10,
       "maxAttempts": 1,
-      "status": "active",
+      "status": "stopped",
       "questions": [],
       "submissions": [
         {
@@ -49,7 +49,7 @@
         }
       ],
       "startTime": 1771757733049,
-      "endTime": 1771759533049,
+      "endTime": 1771757914493,
       "readyUsers": [],
       "joinedUsers": [],
       "violationLog": []
