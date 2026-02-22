@@ -8,7 +8,7 @@
       "durationMinutes": 30,
       "totalQuestions": 10,
       "maxAttempts": 1,
-      "status": "active",
+      "status": "paused",
       "questions": [],
       "submissions": [
         {
@@ -24,7 +24,8 @@
       "startTime": 1771756264255,
       "endTime": 1771758064255,
       "readyUsers": [],
-      "joinedUsers": []
+      "joinedUsers": [],
+      "pausedAt": 1771757305411
     }
   ]
 }
