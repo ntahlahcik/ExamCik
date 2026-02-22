@@ -10,7 +10,17 @@
       "maxAttempts": 1,
       "status": "active",
       "questions": [],
-      "submissions": [],
+      "submissions": [
+        {
+          "username": "tesop",
+          "userId": "user_1771756009915",
+          "examId": "exam_1771756081114",
+          "examTitle": "tes",
+          "answers": {},
+          "submittedAt": 1771757096634,
+          "violationCount": 0
+        }
+      ],
       "startTime": 1771756264255,
       "endTime": 1771758064255,
       "readyUsers": [],
