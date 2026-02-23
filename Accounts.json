@@ -37,6 +37,13 @@
       "role": "user",
       "avatar": null,
       "lastActive": null
+    },
+    {
+      "id": "user_1771815495103",
+      "username": "Tian",
+      "password": "Ntahlahcik67#$&niega",
+      "role": "admin",
+      "avatar": null
     }
   ]
 }
