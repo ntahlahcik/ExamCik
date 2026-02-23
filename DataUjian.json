@@ -53,6 +53,23 @@
       "readyUsers": [],
       "joinedUsers": [],
       "violationLog": []
+    },
+    {
+      "id": "exam_1771815592156",
+      "title": "Tes 3",
+      "description": "Ytta",
+      "duration": 180,
+      "durationMinutes": 3,
+      "totalQuestions": 2,
+      "maxAttempts": 1,
+      "status": "scheduled",
+      "questions": [],
+      "submissions": [],
+      "startTime": null,
+      "endTime": null,
+      "readyUsers": [],
+      "joinedUsers": [],
+      "violationLog": []
     }
   ]
 }
