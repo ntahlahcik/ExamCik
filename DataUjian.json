@@ -137,7 +137,13 @@
       "startTime": null,
       "endTime": null,
       "readyUsers": [],
-      "joinedUsers": [],
+      "joinedUsers": [
+        {
+          "username": "Tian",
+          "userId": "user_1771815495103",
+          "joinedAt": 1771815727200
+        }
+      ],
       "violationLog": []
     }
   ]
