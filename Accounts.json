@@ -44,6 +44,13 @@
       "password": "Ntahlahcik67#$&niega",
       "role": "admin",
       "avatar": null
+    },
+    {
+      "id": "user_1771815500667",
+      "username": "Febrian",
+      "password": "gerald08",
+      "role": "user",
+      "avatar": null
     }
   ]
 }
