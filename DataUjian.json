@@ -9,7 +9,33 @@
       "totalQuestions": 10,
       "maxAttempts": 1,
       "status": "active",
-      "questions": [],
+      "questions": [
+        {
+          "type": "Pilihan Ganda",
+          "question": "1-1?",
+          "image": null,
+          "options": [
+            {
+              "text": "2",
+              "image": null
+            },
+            {
+              "text": "3",
+              "image": null
+            },
+            {
+              "text": "4",
+              "image": null
+            },
+            {
+              "text": "5",
+              "image": null
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      ],
       "submissions": [
         {
           "username": "tesop",
