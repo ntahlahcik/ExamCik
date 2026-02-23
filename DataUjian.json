@@ -34,6 +34,31 @@
           ],
           "correctAnswer": "A",
           "explanation": ""
+        },
+        {
+          "type": "Pilihan Ganda",
+          "question": "5x5x5:5-5x0",
+          "image": null,
+          "options": [
+            {
+              "text": "50",
+              "image": null
+            },
+            {
+              "text": "55",
+              "image": null
+            },
+            {
+              "text": "5",
+              "image": null
+            },
+            {
+              "text": "0",
+              "image": null
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": ""
         }
       ],
       "submissions": [
