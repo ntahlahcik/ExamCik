@@ -150,7 +150,19 @@
           "explanation": ""
         }
       ],
-      "submissions": [],
+      "submissions": [
+        {
+          "username": "Febrian",
+          "userId": "user_1771815500667",
+          "examId": "exam_1771815592156",
+          "examTitle": "Tes 3",
+          "answers": {
+            "0": "Two"
+          },
+          "submittedAt": 1771815974199,
+          "violationCount": 0
+        }
+      ],
       "startTime": 1771815812914,
       "endTime": 1771815992914,
       "readyUsers": [],
