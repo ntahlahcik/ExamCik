@@ -131,7 +131,7 @@
       "durationMinutes": 3,
       "totalQuestions": 2,
       "maxAttempts": 1,
-      "status": "active",
+      "status": "stopped",
       "questions": [
         {
           "type": "Isian Singkat",
@@ -186,7 +186,7 @@
         }
       ],
       "startTime": 1771815812914,
-      "endTime": 1771815992914,
+      "endTime": 1772170346112,
       "readyUsers": [],
       "joinedUsers": [
         {
