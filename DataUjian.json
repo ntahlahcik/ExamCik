@@ -283,7 +283,21 @@
           "explanation": ""
         }
       ],
-      "submissions": [],
+      "submissions": [
+        {
+          "username": "tesop",
+          "userId": "user_1771756009915",
+          "examId": "exam_1772170191892",
+          "examTitle": "tes soal",
+          "answers": {
+            "0": "A",
+            "2": "C",
+            "3": "wd"
+          },
+          "submittedAt": 1772170405324,
+          "violationCount": 0
+        }
+      ],
       "startTime": 1772170374055,
       "endTime": 1772172174055,
       "readyUsers": [],
