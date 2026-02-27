@@ -236,6 +236,35 @@
           "options": [],
           "correctAnswer": "Benar",
           "explanation": ""
+        },
+        {
+          "type": "Checklist",
+          "question": "wqrqr$$\\sqrt{x}$$",
+          "image": null,
+          "options": [
+            {
+              "text": "vac",
+              "image": null
+            },
+            {
+              "text": "ds",
+              "image": null
+            },
+            {
+              "text": "gr",
+              "image": null
+            },
+            {
+              "text": "aef",
+              "image": null
+            }
+          ],
+          "correctAnswer": [
+            "B",
+            "C",
+            "D"
+          ],
+          "explanation": ""
         }
       ],
       "submissions": [],
