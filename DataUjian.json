@@ -211,7 +211,25 @@
       "totalQuestions": 10,
       "maxAttempts": 1,
       "status": "scheduled",
-      "questions": [],
+      "questions": [
+        {
+          "type": "Pilihan Ganda",
+          "question": "$$x_{1}$$",
+          "image": null,
+          "options": [
+            {
+              "text": "wd",
+              "image": null
+            },
+            {
+              "text": "wf",
+              "image": null
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ],
       "submissions": [],
       "startTime": null,
       "endTime": null,
