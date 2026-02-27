@@ -228,6 +228,14 @@
           ],
           "correctAnswer": "B",
           "explanation": ""
+        },
+        {
+          "type": "Benar/Salah",
+          "question": "$$\\sqrt{x}$$",
+          "image": null,
+          "options": [],
+          "correctAnswer": "Benar",
+          "explanation": ""
         }
       ],
       "submissions": [],
