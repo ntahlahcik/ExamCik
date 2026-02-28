@@ -324,7 +324,13 @@
       "startTime": null,
       "endTime": null,
       "readyUsers": [],
-      "joinedUsers": [],
+      "joinedUsers": [
+        {
+          "username": "tesadmin",
+          "userId": "user_1771754703148",
+          "joinedAt": 1772280089496
+        }
+      ],
       "violationLog": []
     }
   ]
