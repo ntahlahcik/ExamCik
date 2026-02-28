@@ -13,7 +13,13 @@
       "submissions": [],
       "startTime": null,
       "endTime": null,
-      "readyUsers": [],
+      "readyUsers": [
+        {
+          "username": "tesop",
+          "userId": "user_1772283992956",
+          "readyAt": 1772285267742
+        }
+      ],
       "joinedUsers": [
         {
           "username": "tesop",
