@@ -323,7 +323,13 @@
       "submissions": [],
       "startTime": null,
       "endTime": null,
-      "readyUsers": [],
+      "readyUsers": [
+        {
+          "username": "tesadmin",
+          "userId": "user_1771754703148",
+          "readyAt": 1772280091972
+        }
+      ],
       "joinedUsers": [
         {
           "username": "tesadmin",
