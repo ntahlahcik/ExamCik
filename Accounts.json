@@ -1,2 +1,11 @@
 {
+  "data_user": [
+    {
+      "id": "user_1772283992956",
+      "username": "tesop",
+      "password": "tesop",
+      "role": "operator",
+      "avatar": null
+    }
+  ]
 }
