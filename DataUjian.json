@@ -93,7 +93,13 @@
       "startTime": 1771756264255,
       "endTime": 1772170333798,
       "readyUsers": [],
-      "joinedUsers": [],
+      "joinedUsers": [
+        {
+          "username": "tesadmin",
+          "userId": "user_1771754703148",
+          "joinedAt": 1772277405169
+        }
+      ],
       "pausedAt": 1771757899010
     },
     {
