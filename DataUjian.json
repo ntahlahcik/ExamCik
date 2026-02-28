@@ -98,6 +98,11 @@
           "username": "tesadmin",
           "userId": "user_1771754703148",
           "joinedAt": 1772277405169
+        },
+        {
+          "username": "tesuser",
+          "userId": "user_1771756318999",
+          "joinedAt": 1772280756580
         }
       ],
       "pausedAt": 1771757899010
