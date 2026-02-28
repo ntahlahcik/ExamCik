@@ -307,6 +307,18 @@
           },
           "submittedAt": 1772170405324,
           "violationCount": 0
+        },
+        {
+          "username": "tesuser",
+          "userId": "user_1771756318999",
+          "examId": "exam_1772170191892",
+          "examTitle": "tes soal",
+          "answers": {
+            "3": "",
+            "4": ""
+          },
+          "submittedAt": 1772280801210,
+          "violationCount": 0
         }
       ],
       "startTime": 1772170374055,
