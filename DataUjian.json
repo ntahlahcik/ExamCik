@@ -14,7 +14,13 @@
       "startTime": null,
       "endTime": null,
       "readyUsers": [],
-      "joinedUsers": [],
+      "joinedUsers": [
+        {
+          "username": "tesop",
+          "userId": "user_1772283992956",
+          "joinedAt": 1772285265426
+        }
+      ],
       "violationLog": []
     }
   ]
