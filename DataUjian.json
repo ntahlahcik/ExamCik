@@ -34,6 +34,14 @@
           ],
           "correctAnswer": "A",
           "explanation": ""
+        },
+        {
+          "type": "Isian Singkat",
+          "question": "qddqd",
+          "image": null,
+          "options": [],
+          "correctAnswer": null,
+          "explanation": ""
         }
       ],
       "submissions": [],
