@@ -32,7 +32,17 @@
           "explanation": ""
         }
       ],
-      "submissions": [],
+      "submissions": [
+        {
+          "username": "tesuser",
+          "userId": "user_1772345263245",
+          "examId": "exam_1772348289861",
+          "examTitle": "tes",
+          "answers": {},
+          "submittedAt": 1772373767285,
+          "violationCount": 0
+        }
+      ],
       "startTime": 1772348563931,
       "endTime": 1772348623931,
       "readyUsers": [
