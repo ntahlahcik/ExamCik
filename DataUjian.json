@@ -1,3 +1,21 @@
 {
-  "exams": []
+  "exams": [
+    {
+      "id": "exam_1772348868783",
+      "title": "tes",
+      "description": "",
+      "duration": 60,
+      "durationMinutes": 1,
+      "totalQuestions": 10,
+      "maxAttempts": 1,
+      "status": "scheduled",
+      "questions": [],
+      "submissions": [],
+      "startTime": null,
+      "endTime": null,
+      "readyUsers": [],
+      "joinedUsers": [],
+      "violationLog": []
+    }
+  ]
 }
