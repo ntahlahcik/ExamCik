@@ -44,7 +44,20 @@
           "explanation": ""
         }
       ],
-      "submissions": [],
+      "submissions": [
+        {
+          "username": "tesuser",
+          "userId": "user_1772345263245",
+          "examId": "exam_1772376659363",
+          "examTitle": "tes",
+          "answers": {
+            "0": "A",
+            "1": "H"
+          },
+          "submittedAt": 1772376871465,
+          "violationCount": 0
+        }
+      ],
       "startTime": 1772376840111,
       "endTime": 1772377020111,
       "readyUsers": [
