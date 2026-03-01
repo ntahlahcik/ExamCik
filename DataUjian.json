@@ -8,7 +8,7 @@
       "durationMinutes": 4,
       "totalQuestions": 1,
       "maxAttempts": 1,
-      "status": "active",
+      "status": "stopped",
       "questions": [
         {
           "type": "Benar/Salah",
@@ -21,7 +21,7 @@
       ],
       "submissions": [],
       "startTime": 1772349393612,
-      "endTime": 1772349633612,
+      "endTime": 1772376574903,
       "readyUsers": [
         {
           "username": "tesuser",
