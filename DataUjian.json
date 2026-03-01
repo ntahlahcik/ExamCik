@@ -1,2 +1,21 @@
 {
+  "exams": [
+    {
+      "id": "exam_1772349331588",
+      "title": "uhi",
+      "description": "",
+      "duration": 240,
+      "durationMinutes": 4,
+      "totalQuestions": 1,
+      "maxAttempts": 1,
+      "status": "scheduled",
+      "questions": [],
+      "submissions": [],
+      "startTime": null,
+      "endTime": null,
+      "readyUsers": [],
+      "joinedUsers": [],
+      "violationLog": []
+    }
+  ]
 }
