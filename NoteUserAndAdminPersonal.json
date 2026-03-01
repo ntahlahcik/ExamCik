@@ -1,17 +1,2 @@
 {
-  "user": [
-    {
-      "userId": "user_1772283992956",
-      "notes": [
-        {
-          "id": "note_1772284056774",
-          "content": "<h1>Catatan Harian: Sabtu, 28 Februari 2026</h1><p>hi</p>"
-        }
-      ]
-    },
-    {
-      "userId": "user_1772381866605",
-      "notes": []
-    }
-  ]
 }
