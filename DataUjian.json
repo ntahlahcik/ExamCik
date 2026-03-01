@@ -9,7 +9,21 @@
       "totalQuestions": 10,
       "maxAttempts": 1,
       "status": "scheduled",
-      "questions": [],
+      "questions": [
+        {
+          "type": "Pilihan Ganda",
+          "question": "jasx",
+          "image": null,
+          "options": [
+            {
+              "text": "wbxj",
+              "image": null
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ],
       "submissions": [],
       "startTime": null,
       "endTime": null,
