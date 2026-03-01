@@ -16,6 +16,23 @@
       "readyUsers": [],
       "joinedUsers": [],
       "violationLog": []
+    },
+    {
+      "id": "exam_1772384180492",
+      "title": "Tes",
+      "description": "",
+      "duration": 180,
+      "durationMinutes": 3,
+      "totalQuestions": 10,
+      "maxAttempts": 1,
+      "status": "scheduled",
+      "questions": [],
+      "submissions": [],
+      "startTime": null,
+      "endTime": null,
+      "readyUsers": [],
+      "joinedUsers": [],
+      "violationLog": []
     }
   ]
 }
