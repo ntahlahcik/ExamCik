@@ -9,7 +9,16 @@
       "totalQuestions": 1,
       "maxAttempts": 1,
       "status": "scheduled",
-      "questions": [],
+      "questions": [
+        {
+          "type": "Benar/Salah",
+          "question": "$$x_{1}$$",
+          "image": null,
+          "options": [],
+          "correctAnswer": "Benar",
+          "explanation": ""
+        }
+      ],
       "submissions": [],
       "startTime": null,
       "endTime": null,
