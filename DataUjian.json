@@ -26,6 +26,14 @@
           ],
           "correctAnswer": "A",
           "explanation": ""
+        },
+        {
+          "type": "Pilihan Ganda",
+          "question": "kvkjj",
+          "image": null,
+          "options": [],
+          "correctAnswer": null,
+          "explanation": ""
         }
       ],
       "submissions": [],
