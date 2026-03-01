@@ -8,7 +8,7 @@
       "durationMinutes": 3,
       "totalQuestions": 1,
       "maxAttempts": 1,
-      "status": "scheduled",
+      "status": "active",
       "questions": [
         {
           "type": "Pilihan Ganda",
@@ -45,8 +45,8 @@
         }
       ],
       "submissions": [],
-      "startTime": null,
-      "endTime": null,
+      "startTime": 1772376840111,
+      "endTime": 1772377020111,
       "readyUsers": [
         {
           "username": "tesuser",
@@ -62,7 +62,7 @@
         }
       ],
       "violationLog": [],
-      "startAt": 1772376840111
+      "startAt": null
     }
   ]
 }
