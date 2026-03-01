@@ -8,7 +8,7 @@
       "durationMinutes": 3,
       "totalQuestions": 1,
       "maxAttempts": 1,
-      "status": "active",
+      "status": "stopped",
       "questions": [
         {
           "type": "Pilihan Ganda",
@@ -59,7 +59,7 @@
         }
       ],
       "startTime": 1772376840111,
-      "endTime": 1772377020111,
+      "endTime": 1772378603007,
       "readyUsers": [
         {
           "username": "tesuser",
